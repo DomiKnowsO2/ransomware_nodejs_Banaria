@@ -1,0 +1,16 @@
+{
+  "name": "dom",
+  "version": "1.0.0",
+  "description": "ransomware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "file-encryptor": "^0.1.1",
+    "node-notifier": "^10.0.1"
+  }
+}
